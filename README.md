@@ -1,4 +1,6 @@
 # IPTV
+ 
+我建议你新建一个仓库 exodiver.github.io 这样别人就非常方便的引用这里的资源了，容易记忆与录入到播放器里，现在github项raw 99%的时间里打不开。原来这个可打开，现在就不行了https://raw.githubusercontent.com/exodiver/IPTV/master/GoCast2/Oriental/Gugong.m3u8  要是换成https://exodiver.github.io/GoCast2/Oriental/Gugong.m3u8 形式就好了。参考这个https://zhuanlan.zhihu.com/p/36912355  只是建议，希望采纳，不胜感激。我的QQ 195285528
 
 Hi all, this is just a public list I compile in my hobby time. Feel free to fork or take whatever you want. 
 
